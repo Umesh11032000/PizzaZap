@@ -16,7 +16,7 @@ Zap Your Pizza Cravings! A React-based pizza ordering app with real-time Spoonac
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/PizzaZap.git
+   git clone https://github.com/Umesh11032000/PizzaZap.git
    cd PizzaZap
 
 ## Install Dependencies
